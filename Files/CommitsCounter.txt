@@ -1,2 +1,2 @@
-﻿Commit number 1
-Commit name: branch 1 start
+﻿Commit number 2
+Commit name: some text
