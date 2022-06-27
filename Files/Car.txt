@@ -1,2 +1,2 @@
 ﻿Name=AUDI
-MaxSpeed=110
+MaxSpeed=150
