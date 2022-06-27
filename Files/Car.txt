@@ -1,1 +1,3 @@
 ﻿Name: KIA
+
+Windows count: 6
