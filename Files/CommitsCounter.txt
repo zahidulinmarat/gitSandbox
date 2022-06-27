@@ -1,2 +1,2 @@
-﻿Commit number 2
-Commit name: some text
+﻿Commit number 3
+Commit name: branch 1 commit 3
