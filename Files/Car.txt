@@ -2,3 +2,5 @@
 
 Suspension: Sport (added on dev-main)
 Gas: On (added on dev-main)
+
+Doors count: 4.
