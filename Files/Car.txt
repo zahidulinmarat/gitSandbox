@@ -1,2 +1,2 @@
 ﻿Name=KIA
-MaxSpeed=230
+MaxSpeed=240
