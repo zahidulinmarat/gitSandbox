@@ -1,4 +1,2 @@
-Name=AUDI
-MaxSpeed=110
 Name=KIA
 MaxSpeed=230
