@@ -1,5 +1,7 @@
 ﻿Name: KIA
 
+Windows count: 6
+
 Suspension: Sport (added on dev-main)
 Gas: On (added on dev-main)
 
