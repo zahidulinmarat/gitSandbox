@@ -1,2 +1,2 @@
 ﻿Broken=false
-Material=glass
+Material=transparent
