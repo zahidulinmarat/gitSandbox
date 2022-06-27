@@ -1,1 +1,2 @@
 ﻿This is some text.
+Cool.
