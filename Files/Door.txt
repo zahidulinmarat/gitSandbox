@@ -1,2 +1,2 @@
 Broken=true
-Material=metal-rust3
+Material=metal-rusty2
