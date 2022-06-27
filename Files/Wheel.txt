@@ -1,2 +1,4 @@
 Broken=true
+Material=rubber-super
+Broken=true
 Material=rubber
