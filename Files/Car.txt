@@ -4,4 +4,4 @@ Price: 23-000$
 Speed=230
 Color=blue
 
-Width=5
+Width=6
