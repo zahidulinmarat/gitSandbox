@@ -2,4 +2,4 @@ Name=Kia
 Speed=400
 Color=black
 
-Broken=true
+Broken=false
