@@ -1,5 +1,5 @@
 ﻿Name=Kia
 Speed=400
-Color=blue
+Color=black
 
 Broken=true
