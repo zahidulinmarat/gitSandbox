@@ -1,0 +1,3 @@
+﻿Name=Kia
+Speed=130
+Color=red
